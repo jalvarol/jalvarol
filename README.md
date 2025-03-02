@@ -20,9 +20,9 @@ I'm Jose A. Leos**, a Software Engineer & AI Enthusiast passionate about buildin
 - **GoLang API Optimization** – Implemented **concurrency for handling multiple API requests efficiently**  
 
 ### 📚 Currently Learning  
-- **Machine Learning & AI integration** for automation  
-- **Advanced failure analysis & system reliability**  
-- **High-performance backend optimizations**  
+- Machine Learning & AI integration for automation  
+- Robust code & system reliability 
+- High-performance backend optimizations
 
 ### 🤝 Looking to Collaborate  
 - AI-powered automation tools  
@@ -34,7 +34,7 @@ I'm Jose A. Leos**, a Software Engineer & AI Enthusiast passionate about buildin
 - **GitHub:** [github.com/jalvarol](https://github.com/jalvarol)  
 - **Email:** jalvarol@me.com  
 
-Let's **build something amazing together!** 🚀  
+Let's build something amazing together! 🚀  
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jalvarol&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 ![Alvaro's GitHub stats](https://github-stats-jalvarol.vercel.app/api?username=jalvarol&show_icons=true&theme=react&count_private=true&include_all_commits=true)
