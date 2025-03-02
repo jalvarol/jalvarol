@@ -41,7 +41,7 @@ Let's **build something amazing together!** 🚀
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalvarol&layout=compact&theme=react)
+![Top Langs](https://github-stats-jalvarol.vercel.app/api/top-langs/?username=jalvarol&layout=compact&theme=tokyonight)
 
 
 I'm working on it...
