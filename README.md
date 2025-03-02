@@ -35,3 +35,5 @@ I'm **Jose A. Leos**, a **Software Engineer & AI Enthusiast** passionate about *
 - **Email:** jalvarol@me.com  
 
 Let's **build something amazing together!** 🚀  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?jalvarol=DenverCoder1)](https://git.io/streak-stats)
