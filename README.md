@@ -1,11 +1,11 @@
 ## Hi there 👋  
 
-I'm **Jose A. Leos**, a **Software Engineer & AI Enthusiast** passionate about **building scalable applications, cloud computing, and AI-driven solutions**.  
+I'm Jose A. Leos**, a Software Engineer & AI Enthusiast passionate about building scalable applications, cloud computing, and AI-driven solutions.  
 
 ### 🚀 About Me  
-- 🎓 **Recent Computer Science Graduate** from Santa Clara University  
-- 💡 Passionate about **automation, failure analysis, and backend development**  
-- 🌎 Focused on **AI integration, test automation, and cloud solutions**  
+- 🎓 Computer Science Graduate from Santa Clara University  
+- 💡 Passionate about automation, big data analytics, and backend development**  
+- 🌎 Focused on AI integration, test automation, and cloud solutions
 
 ### 🔧 Tech Stack  
 - **Languages:** Python, Java, Go, C++, JavaScript  
