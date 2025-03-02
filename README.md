@@ -37,6 +37,6 @@ I'm **Jose A. Leos**, a **Software Engineer & AI Enthusiast** passionate about *
 Let's **build something amazing together!** 🚀  
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jalvarol&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
-![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarol&show_icons=true&theme=react&hide_rank=true)
+![Alvaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=jalvarol&show_icons=true&theme=react&hide_rank=true&show_icons=true&include_all_commits=true)
 
 I'm working on it...
