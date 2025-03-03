@@ -1,4 +1,4 @@
-## Hi there 👋  
+## Hola 👋  
 
 I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about building scalable applications, cloud computing, and AI-driven solutions.  
 
