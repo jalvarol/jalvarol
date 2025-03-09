@@ -15,7 +15,7 @@ I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about build
 - **Testing & Automation:** Jest, JUnit, Unittest  
 
 ### 🛠️ Current Projects  
-- **The Move In (Private Repo)** – A **full-stack web app** that helps renters **resolve deposit disputes** through **timestamped evidence tracking**  
+- **The Move In** – A **full-stack web app** that helps renters **resolve deposit disputes** through **timestamped evidence tracking**  
 - **AI-powered Browser Extension** – Extracts content from webpages and **generates quiz-style questions** using OpenAI’s API  
 - **GoLang API Optimization** – Implemented **concurrency for handling multiple API requests efficiently**  
 
@@ -33,8 +33,6 @@ I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about build
 - **LinkedIn:** [linkedin.com/in/josealeos](https://linkedin.com/in/josealeos)  
 - **GitHub:** [github.com/jalvarol](https://github.com/jalvarol)  
 - **Email:** jalvarol@me.com  
-
-Let's build something amazing together! 🚀  
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jalvarol&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
 ![Alvaro's GitHub stats](https://github-stats-jalvarol.vercel.app/api?username=jalvarol&show_icons=true&theme=react&count_private=true&include_all_commits=true)
