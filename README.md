@@ -8,11 +8,11 @@ I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about build
 - 🌎 Focused on AI integration, test automation, and cloud solutions
 
 ### 🔧 Tech Stack  
-- **Languages:** Python, Java, Go, C++, JavaScript  
+- **Languages:** Java, Python, JavaScript  
 - **Frameworks:** React, Node.js, Express.js, Vite  
 - **Databases:** PostgreSQL, MySQL, SQLite  
 - **Cloud & DevOps:** AWS (S3, RDS, EC2), Docker  
-- **Testing & Automation:** Jest, JUnit, Unittest  
+- **Testing & Automation:** JUnit, Unittest  
 
 ### 🛠️ Current Projects  
 - **The Move In** – A **full-stack web app** that helps renters **resolve deposit disputes** through **timestamped evidence tracking**  
