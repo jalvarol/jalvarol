@@ -16,7 +16,7 @@ I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about build
 
 ### 🛠️ Current Projects  
 - **The Move In** – A **full-stack web app** that helps renters **resolve deposit disputes** through **timestamped evidence tracking**  
-- **AI-powered Browser Extension** – Extracts content from webpages and **generates quiz-style questions** using OpenAI’s API  
+- **AI-powered Browser Extension** – Extracts content from webpages and **generates answers to quizzes** using OpenAI’s API  
 - **GoLang API Optimization** – Implemented **concurrency for handling multiple API requests efficiently**  
 
 ### 📚 Currently Learning  
