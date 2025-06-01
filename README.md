@@ -1,6 +1,6 @@
 ## Hola 👋  
 
-I'm Jose Alvaro Leos, a Software Engineer & AI Enthusiast passionate about building scalable applications, cloud computing, and AI-driven solutions.  
+My name is Jose Alvaro Leos and I'm an aspiring Software Engineer & AI Enthusiast passionate about building scalable applications, cloud computing, and AI-driven solutions.  
 
 ### 🚀 About Me  
 - 🎓 Computer Science Graduate from Santa Clara University  
