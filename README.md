@@ -30,16 +30,16 @@ My name is Jose Alvaro Leos and I'm an aspiring Software Engineer & AI Enthusias
 - Cloud-based solutions  
 
 ### 📫 How to Reach Me  
-- **LinkedIn:** [linkedin.com/in/josealeos](https://linkedin.com/in/josealeos)  
+- **LinkedIn:** [linkedin.com/in/jalvarol](https://linkedin.com/in/jalvarol)  
 - **GitHub:** [github.com/jalvarol](https://github.com/jalvarol)  
-- **Email:** jalvarol@me.com  
+- **Email:** jalvarol@icloud.com  
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jalvarol&theme=dark&hide_border=true)](https://git.io/streak-stats)-->
-![Alvaro's GitHub stats](https://github-stats-jalvarol.vercel.app/api?username=jalvarol&show_icons=true&theme=react&count_private=true&include_all_commits=true)
+<!--![Alvaro's GitHub stats](https://github-stats-jalvarol.vercel.app/api?username=jalvarol&show_icons=true&theme=react&count_private=true&include_all_commits=true)-->
 
 
 
-![Top Langs](https://github-stats-jalvarol.vercel.app/api/top-langs/?username=jalvarol&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-stats-jalvarol.vercel.app/api/top-langs/?username=jalvarol&layout=compact&theme=tokyonight)-->
 
 
 WIP...
